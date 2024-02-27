@@ -64,15 +64,19 @@ Voltage across inductor L:
       
 <br>
 Applying volt-sec balance on inductor (eqn. 1 and 2)
+<br>
+
 <div style="float: left; width:50%;">
   <img src="images/th6.png" height="25px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(3)
       </div>
+
+<br>
+On simplifying the eqn. 3
 <br>
 
-On simplifying the eqn. 3
 <div style="float: left; width:50%;">
   <img src="images/th7.png" height="60px">
       </div>
@@ -87,7 +91,9 @@ On simplifying the eqn. 3
   
 <img src="images/th8.jpg" height="350px">
 
+<br>
 Fig. 3.  Circuit configuration of conventional boost converter with non-idealities.
+<br>
 
 </center>
 
