@@ -39,6 +39,7 @@ Fig. 2(b). Equivalent circuit in mode-II.
     </td>
   </tr>
 </table>
+<br>
 
 **a) Voltage conversion ratio or voltage gain (M)**
 
@@ -78,28 +79,59 @@ On simplifying the eqn. 3
 <div style="float: right; width:50%; text-align:center;">
     ..(4)
       </div>
+<br>
 
-<br><br>==========================================<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th5.png" height="25px">
-
-<br><br>
-Applying volt-sec balance on inductor: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th6.png" height="25px">
-<br><br>
-Simplifying the expression &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th7.png" height="65px">
+**b) Effect of non-idealities on voltage gain expression:**
 
 <center>
   
 <img src="images/th8.jpg" height="350px">
 
-Fig. 2.  Circuit configuration of boost converter with non-idealities.
+Fig. 3.  Circuit configuration of conventional boost converter with non-idealities.
 
 </center>
 
-Voltage across inductor L: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th9.png" height="25px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th10.png" height="25px">
+Voltage across inductor L:
 
-Applying volt-sec balance on inductor: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th11.png" height="25px">
+**Mode – I :**
+<div style="float: left; width:50%;">
+  <img src="images/th9.png" height="25px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(5)
+      </div>
+<br>
 
-Simplifying the expression &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th12.png" height="100px">
+**Mode – II :**
+<div style="float: left; width:50%;">
+  <img src="images/th10.png" height="25px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(6)
+      </div>
+      
+<br>
+Applying volt-sec balance on inductor (eqn. 5 and 6)
+<div style="float: left; width:50%;">
+  <img src="images/th11.png" height="25px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(7)
+      </div>
+<br>
+
+On solving eqn. 7
+<div style="float: left; width:50%;">
+  <img src="images/th12.png" height="100px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(8)
+      </div>
+<br>
+
+
+<br><br>==========================================<br><br>
+
 
 In the event of battery voltage/load fluctuations, load voltage varies. However, DC-loads require constant voltage for their feasible/efficient operation, which demands automatic control. A simple PI-controller (proportional plus integral controller [2], see Fig. 4(a)) is capable of maintaining a constant load voltage despite  the fluctuations (battery voltage/load). Here, the controller adjusts the pulse width of the PWM signal [2] according to the input error signal. As shown in Fig. 4(b), the error signal is the difference between the reference voltage and actual load voltage.
 
