@@ -44,18 +44,40 @@ Fig. 2(b). Equivalent circuit in mode-II.
 
 Voltage across inductor L:
 
-
-
+**Mode – I :**
 <div style="float: left; width:50%;">
   <img src="images/th4.png" height="25px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(1)
       </div>
+<br>
+
+**Mode – II :**
+<div style="float: left; width:50%;">
+  <img src="images/th5.png" height="25px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(2)
+      </div>
       
+<br>
+Applying volt-sec balance on inductor (eqn. 1 and 2)
+<div style="float: left; width:50%;">
+  <img src="images/th6.png" height="25px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(3)
+      </div>
+<br>
 
-
-
+On simplifying the eqn. 3
+<div style="float: left; width:50%;">
+  <img src="images/th7.png" height="60px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(4)
+      </div>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th5.png" height="25px">
