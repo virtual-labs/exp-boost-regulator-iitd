@@ -46,6 +46,7 @@ Fig. 2(b). Equivalent circuit in mode-II.
 Voltage across inductor L:
 
 **Mode – I :**
+<br>
 <div style="float: left; width:50%;">
   <img src="images/th4.png" height="25px">
       </div>
@@ -55,14 +56,15 @@ Voltage across inductor L:
 <br><br>
 
 **Mode – II :**
+<br>
 <div style="float: left; width:50%;">
   <img src="images/th5.png" height="25px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(2)
-      </div>
-      
+      </div>     
 <br><br>
+
 Applying volt-sec balance on inductor (eqn. 1 and 2)
 <br>
 
@@ -85,6 +87,7 @@ On simplifying the eqn. 3
       </div>
 <br>
 <br>
+
 **b) Effect of non-idealities on voltage gain expression:**
 
 <center>
@@ -100,6 +103,7 @@ Fig. 3.  Circuit configuration of conventional boost converter with non-idealiti
 Voltage across inductor L:
 
 **Mode – I :**
+<br>
 <div style="float: left; width:50%;">
   <img src="images/th9.png" height="25px">
       </div>
@@ -109,6 +113,7 @@ Voltage across inductor L:
 <br>
 
 **Mode – II :**
+<br>
 <div style="float: left; width:50%;">
   <img src="images/th10.png" height="25px">
       </div>
@@ -119,6 +124,7 @@ Voltage across inductor L:
 <br>
 Applying volt-sec balance on inductor (eqn. 5 and 6)
 <br>
+
 <div style="float: left; width:50%;">
   <img src="images/th11.png" height="25px">
       </div>
