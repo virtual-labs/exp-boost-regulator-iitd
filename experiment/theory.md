@@ -40,8 +40,6 @@ Fig. 2(b). Equivalent circuit in mode-II.
   </tr>
 </table>
 
-<center>
-
 
 Voltage across inductor L: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th4.png" height="25px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th5.png" height="25px">
 
