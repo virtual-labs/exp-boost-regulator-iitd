@@ -1,14 +1,46 @@
 ### Theory
 
+The circuit configuration of boost converter is given in Fig. 1.
+
 <center>
   <img src="images/th1.jpg" height="350px">
   
-Fig. 1 Circuit diagram of boost converter.
+Fig. 1 Circuit Diagram of Boost Converter.
 
 </center>
 <br>
 Based on the modes of operation, the voltage gain formulation (in brief) is given below:
 <br><br>
+
+<table style="width:100%; border:0px;">
+  <tr>
+    <td style="width:50%">
+<center>
+  
+**Mode – I :  Switch S:ON-state, Diode: OFF-state**
+<br>
+<img src="images/th2.jpg" height="350px">
+<br>
+
+Fig. 2(a). Equivalent circuit in mode-I.
+<br><br>
+</center>
+    </td>
+    <td style="width:50%">
+  
+  <center>
+      
+  **Mode – II :  Switch S:OFF-state , Diode: ON-state**
+      
+<br>
+<img src="images/th3.jpg" height="350px">
+<br>
+Fig. 2(b). Equivalent circuit in mode-II.
+<br><br>
+</center> 
+    </td>
+  </tr>
+</table>
 
 <center>
   
@@ -18,15 +50,18 @@ Based on the modes of operation, the voltage gain formulation (in brief) is give
 <img src="images/th2.jpg" height="350px">
 <br>
 
-Fig. 1(a). Equivalent circuit in mode-I.
+Fig. 2(a). Equivalent circuit in mode-I.
 <br><br>
 
+</center>
+
+<center>
 **Mode – II :  Switch S:OFF-state , Diode: ON-state**
 <br>
 
 <img src="images/th3.jpg" height="350px">
 <br>
-Fig. 1(b). Equivalent circuit in mode-II.
+Fig. 2(b). Equivalent circuit in mode-II.
 <br><br>
 
 </center>
