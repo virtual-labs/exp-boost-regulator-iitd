@@ -16,22 +16,20 @@ Based on the modes of operation, the voltage gain formulation (in brief) is give
   <tr>
     <td style="width:50%">
 <center>
-  
+ 
 **Mode – I :  Switch S:ON-state, Diode: OFF-state**
 <br>
 <img src="images/th2.jpg" height="350px">
 <br>
-
 Fig. 2(a). Equivalent circuit in mode-I.
 <br><br>
 </center>
     </td>
-    <td style="width:50%">
+<td style="width:50%">
   
-  <center>
-      
-  **Mode – II :  Switch S:OFF-state , Diode: ON-state**
-      
+<center>
+
+**Mode – II :  Switch S:OFF-state , Diode: ON-state**
 <br>
 <img src="images/th3.jpg" height="350px">
 <br>
