@@ -20,7 +20,7 @@ Based on the modes of operation, the voltage gain formulation (in brief) is give
 **Mode – I :  Switch S:ON-state, Diode: OFF-state**
 <br>
 <img src="images/th2.jpg" height="350px">
-<br>
+<br><br>
 Fig. 2(a). Equivalent circuit in mode-I.
 <br><br>
 </center>
@@ -29,10 +29,10 @@ Fig. 2(a). Equivalent circuit in mode-I.
   
 <center>
   
-**Mode – II :  Switch S:OFF-state , Diode: ON-state**
+**Mode – II :  Switch S:OFF-state, Diode: ON-state**
 <br>
 <img src="images/th3.jpg" height="350px">
-<br>
+<br><br>
 Fig. 2(b). Equivalent circuit in mode-II.
 <br><br>
 </center> 
@@ -41,28 +41,7 @@ Fig. 2(b). Equivalent circuit in mode-II.
 </table>
 
 <center>
-  
-**Mode – I :  Switch S:ON-state, Diode: OFF-state**
 
-<br>
-<img src="images/th2.jpg" height="350px">
-<br>
-
-Fig. 2(a). Equivalent circuit in mode-I.
-<br><br>
-
-</center>
-
-<center>
-**Mode – II :  Switch S:OFF-state , Diode: ON-state**
-<br>
-
-<img src="images/th3.jpg" height="350px">
-<br>
-Fig. 2(b). Equivalent circuit in mode-II.
-<br><br>
-
-</center>
 
 Voltage across inductor L: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th4.png" height="25px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th5.png" height="25px">
 
