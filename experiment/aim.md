@@ -2,7 +2,7 @@
 
 ##### a) Principle of operation followed by brief analysis to obtain the voltage gain characteristics of the boost converter.
 
-##### b) The impact of non-idealities (ESL, ESR, R<sub>DS(ON)</sub>,VFD, R) on voltage boosting capability of the converter.
+##### b) The impact of non-idealities (ESL, ESR, R<sub>DS(ON)</sub>,V<sub>FD</sub>, R) on voltage boosting capability of the converter.
 
 ##### c) The loading effect on efficiency of the converter.
 
