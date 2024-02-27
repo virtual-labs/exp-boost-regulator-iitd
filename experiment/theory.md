@@ -42,17 +42,21 @@ Fig. 2(b). Equivalent circuit in mode-II.
 
 **a) Voltage conversion ratio or voltage gain (M)**
 
-<table border="0" align="center" style="width:100%; border-color:#FFF;">
-  <tr>
-    <td style="width:50%">
-      </td>
-    <td style="width:50%">
-      </td>
-  </tr>
-</table>
 Voltage across inductor L:
 
-<img src="images/th4.png" height="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)
+<img src="images/th4.png" height="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)
+
+<div style="float: left;">
+  <img src="images/th4.png" height="25px">
+      </div>
+<div style="float: right;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)
+      </div>
+      
+
+
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th5.png" height="25px">
 
