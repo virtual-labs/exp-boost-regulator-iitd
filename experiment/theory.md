@@ -40,8 +40,21 @@ Fig. 2(b). Equivalent circuit in mode-II.
   </tr>
 </table>
 
+**a) Voltage conversion ratio or voltage gain (M)**
 
-Voltage across inductor L: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th4.png" height="25px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th5.png" height="25px">
+<table border="0" align="center" style="width:100%; border-color:#FFF;">
+  <tr>
+    <td style="width:50%">
+      </td>
+    <td style="width:50%">
+      </td>
+  </tr>
+</table>
+Voltage across inductor L:
+
+<img src="images/th4.png" height="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th5.png" height="25px">
 
 <br><br>
 Applying volt-sec balance on inductor: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/th6.png" height="25px">
