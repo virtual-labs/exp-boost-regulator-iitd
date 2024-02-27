@@ -49,7 +49,7 @@ Voltage across inductor L:
 <div style="float: left;">
   <img src="images/th4.png" height="25px">
       </div>
-<div style="float: right;">
+<div style="float: right; text-align:center;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)
       </div>
       
