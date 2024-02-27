@@ -113,7 +113,7 @@ Voltage across inductor L:
 <div style="float: right; width:50%; text-align:center;">
     ..(5)
       </div>
-<br>
+<br><br>
 
 **Mode – II :**
 <br>
@@ -123,8 +123,8 @@ Voltage across inductor L:
 <div style="float: right; width:50%; text-align:center;">
     ..(6)
       </div>
-      
-<br>
+<br><br>      
+
 Applying volt-sec balance on inductor (eqn. 5 and 6)
 <br>
 
@@ -134,7 +134,7 @@ Applying volt-sec balance on inductor (eqn. 5 and 6)
 <div style="float: right; width:50%; text-align:center;">
     ..(7)
       </div>
-<br>
+<br><br>
 
 On solving eqn. 7
 <br>
@@ -144,7 +144,7 @@ On solving eqn. 7
 <div style="float: right; width:50%; text-align:center;">
     ..(8)
       </div>
-<br>
+<br><br>
 
 
 <br><br>==========================================<br><br>
