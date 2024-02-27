@@ -73,7 +73,8 @@ Applying volt-sec balance on inductor (eqn. 1 and 2)
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(3)
-      </div>
+
+</div>
 
 <br><br>
 On simplifying the eqn. 3
@@ -82,12 +83,14 @@ On simplifying the eqn. 3
 <div style="float: left; width:50%;">
   <img src="images/th7.png" height="60px">
       </div>
-<div style="float: right; width:50%; text-align:center;">
+<div style="float: right; width:50%; text-align:center;" height="60px">
     ..(4)
+  <br>
       </div>
-<br>
-<br>
+
+
 <div style="width:100%;">
+  <br>
   
 **b) Effect of non-idealities on voltage gain expression:**
 
