@@ -112,6 +112,7 @@ Voltage across inductor L:
       
 <br>
 Applying volt-sec balance on inductor (eqn. 5 and 6)
+<br>
 <div style="float: left; width:50%;">
   <img src="images/th11.png" height="25px">
       </div>
@@ -121,6 +122,7 @@ Applying volt-sec balance on inductor (eqn. 5 and 6)
 <br>
 
 On solving eqn. 7
+<br>
 <div style="float: left; width:50%;">
   <img src="images/th12.png" height="100px">
       </div>
