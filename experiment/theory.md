@@ -88,7 +88,7 @@ On simplifying the eqn. 3
   <br>
       </div>
 
-<div style="width:100%;"><br>
+<div style="float: left; width:100%;"><br>
   
 **b) Effect of non-idealities on voltage gain expression:**
 </div>
