@@ -149,8 +149,11 @@ On solving eqn. 7
   
 **c) Voltage Regulation and Closed-loop Control:**
 </div>
+
+<div style="float: left; width:100%;">
 <br>
 In the event of battery voltage/load fluctuations, load voltage varies. However, DC-loads require constant voltage for their feasible/efficient operation, which demands automatic control. A simple PI-controller (proportional plus integral controller [2], see Fig. 5(a)) is capable of maintaining a constant load voltage despite the fluctuations (battery voltage/load). Here, the controller adjusts the pulse width of the PWM signal [2] according to the input error signal. As shown in Fig. 5(b), the error signal is the difference between the reference voltage and actual load voltage.
+</div>
 
 <br>
 
