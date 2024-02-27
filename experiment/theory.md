@@ -84,7 +84,7 @@ On simplifying the eqn. 3
     ..(4)
       </div>
 <br>
-
+<br>
 **b) Effect of non-idealities on voltage gain expression:**
 
 <center>
