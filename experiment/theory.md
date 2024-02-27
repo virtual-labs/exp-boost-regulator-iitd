@@ -88,13 +88,11 @@ On simplifying the eqn. 3
   <br>
       </div>
 
-
-<div style="width:100%;">
-  <br>
+<div style="width:100%;"><br>
   
 **b) Effect of non-idealities on voltage gain expression:**
+</div>
 
- </div>
 <center>
   
 <img src="images/th8.jpg" height="350px">
