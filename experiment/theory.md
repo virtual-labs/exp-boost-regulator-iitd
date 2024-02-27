@@ -44,13 +44,13 @@ Fig. 2(b). Equivalent circuit in mode-II.
 
 Voltage across inductor L:
 
-<img src="images/th4.png" height="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)
+
 
 <div style="float: left; width:50%;">
   <img src="images/th4.png" height="25px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)
+    ..(1)
       </div>
       
 
