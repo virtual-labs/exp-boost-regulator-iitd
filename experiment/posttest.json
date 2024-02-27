@@ -61,7 +61,7 @@
         "a": "P<sub>0</sub> > P<sub>in</sub>",
         "b": "P<sub>0</sub> < P<sub>in</sub>",
         "c": "P<sub>0</sub> = P<sub>in</sub>",
-        "d": "P<sub>0</sub> = 2P sub>in</sub>"
+        "d": "P<sub>0</sub> = 2P<sub>in</sub>"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
