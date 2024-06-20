@@ -89,6 +89,96 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    
+    {
+      "question": "6. A boost converter has an input voltage of 12 V and an output voltage of 24 V. If the load current is 2A, calculate the average current drawn from the input source assuming ideal conditions (ignore losses).",
+      "answers": {
+        "a": "2 A",
+        "b": "1 A",
+        "c": "8 A",
+        "d": "4 A"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "7. In a boost converter, the switching frequency is 100 kHz, and the duty cycle of the switch is 0.6. Calculate the switch ON (ton) time period.",
+      "answers": {
+        "a": "6 μs",
+        "b": "4 μs",
+        "c": "10 μs",
+        "d": "1 μs"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "8. A boost converter operates with an input voltage of 24 V and an output voltage of 48 V. The switching frequency is 50 kHz. Calculate the peak-to-peak current ripple in the inductor if the inductance is 200 µH.",
+      "answers": {
+        "a": "1.2 A",
+        "b": "0.24 A",
+        "c": "0.12 A",
+        "d": "0.48 A"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "9. In a boost converter circuit, the output voltage is 36 V, and the input voltage is 12 V. The efficiency of the converter is 85%. Calculate the output power if the input current is 5 A.",
+      "answers": {
+        "a": "80 W",
+        "b": "60 W",
+        "c": "51 W",
+        "d": "54 W"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "10. A boost converter has an input voltage of 12 V and an output voltage of 48 V. The converter operates with a switching frequency of 100 kHz. Calculate the duty cycle required for this operation.",
+      "answers": {
+        "a": "0.6",
+        "b": "0.75",
+        "c": "0.7",
+        "d": "0.65"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
