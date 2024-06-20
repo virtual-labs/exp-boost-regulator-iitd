@@ -110,7 +110,7 @@
     },
     
     {
-      "question": "7. In a boost converter, the switching frequency is 100 kHz, and the duty cycle of the switch is 0.6. Calculate the switch ON (ton) time period.",
+      "question": "7. In a boost converter, the switching frequency is 100 kHz, and the duty cycle of the switch is 0.6. Calculate the switch ON (t<sub>on</sub>) time period.",
       "answers": {
         "a": "6 μs",
         "b": "4 μs",
