@@ -128,7 +128,7 @@
     },
     
     {
-      "question": "8. A boost converter operates with an input voltage of 24 V and an output voltage of 48 V. The switching frequency is 50 kHz. Calculate the peak-to-peak current ripple in the inductor if the inductance is 200 µH.",
+      "question": "8. A boost converter operates with an input voltage of 24 V and an output voltage of 48 V. The switching frequency is 50 kHz. Calculate the peak-to-peak current ripple in the inductor if the inductance is 1 mH.",
       "answers": {
         "a": "1.2 A",
         "b": "0.24 A",
