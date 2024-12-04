@@ -478,3 +478,15 @@
     filter: blur(7px);
     -webkit-filter: blur(7px);
   }
+
+.btn-img{
+    transition: 0.05s;
+    z-index: 5000;
+}
+.btn-img:hover{
+    filter: brightness(1.1) drop-shadow(1px 1px 1px black); 
+    cursor: pointer;
+}
+.btn-img:active{
+    filter: drop-shadow(0px 0px 0px black);
+}
