@@ -1,5 +1,10 @@
 ### Procedure
 
+
+<center>
+  <img src="images/procedbig1.png">
+</center>
+
 a) Circuit formulation (Refer Virtual Experiment Slides):
 <br>
 1. Select the correct placement for the highlighted component by “clicking” on the “block”.
