@@ -103,7 +103,7 @@
         "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 3",
-        "d": "Explanation 4"
+        "d": "Explanation 4: <img src='images/expl3.png' height='60px'>"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -118,7 +118,7 @@
         "d": "1 μs"
       },
       "explanations": {
-        "a": "Explanation 1",
+        "a": "Explanation 1:  <img src='images/expl4.png' height='60px'>",
         "b": "Explanation 2",
         "c": "Explanation 3",
         "d": "Explanation 4"
@@ -137,7 +137,7 @@
       },
       "explanations": {
         "a": "Explanation 1",
-        "b": "Explanation 2",
+        "b": "Explanation 2: <img src='images/expl5.png' height='60px'>",
         "c": "Explanation 3",
         "d": "Explanation 4"
       },
@@ -156,7 +156,7 @@
       "explanations": {
         "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 3",
+        "c": "Explanation 3: Pin = 12 * 5 = 60 W ;  P0 = eff*Pin = 0.85*60 = 51 W ",
         "d": "Explanation 4"
       },
       "correctAnswer": "c",
@@ -173,7 +173,7 @@
       },
       "explanations": {
         "a": "Explanation 1",
-        "b": "Explanation 2",
+        "b": "Explanation 2:  <img src='images/expl6.png' height='60px'>",
         "c": "Explanation 3",
         "d": "Explanation 4"
       },
