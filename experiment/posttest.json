@@ -10,7 +10,7 @@
         "d": "is zero"
       },
       "explanations": {
-        "a": "Explanation 1",
+        "a": "Explanation 1: In switch ON-state condition the inductor stores the energy hence the current through it increases.",
         "b": "Explanation 2",
         "c": "Explanation 3",
         "d": "Explanation 4"
@@ -28,7 +28,7 @@
         "d": "(V<sub>0</sub> - V<sub>in</sub>)"
       },
       "explanations": {
-        "a": "Explanation 1",
+        "a": "Explanation 1: When switch is in OFF-state the diode gets forward biased and starts conducting hence the voltage across it will be zero.",
         "b": "Explanation 2",
         "c": "Explanation 3",
         "d": "Explanation 4"
@@ -48,7 +48,7 @@
       "explanations": {
         "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 3",
+        "c": "Explanation 3: <img src='images/expl1.png' height='60px'> at D = 0.6 ;V<sub>0</sub> = 60 V and at D = 0.75; V<sub>0</sub> = 96 V",
         "d": "Explanation 4"
       },
       "correctAnswer": "c",
@@ -65,7 +65,7 @@
       },
       "explanations": {
         "a": "Explanation 1",
-        "b": "Explanation 2",
+        "b": "Explanation 2: Due to non-idealities, power losses take place in various components hence the output power will be less than the input power.",
         "c": "Explanation 3",
         "d": "Explanation 4"
       },
@@ -84,7 +84,7 @@
       "explanations": {
         "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 3",
+        "c": "Explanation 3: <img src='images/expl2.png' height='60px'>",
         "d": "Explanation 4"
       },
       "correctAnswer": "c",
