@@ -10,10 +10,10 @@
         "d": "To step-up the DC input voltage."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4: The boost converter is used to steps up the input voltage to higher output voltage"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -28,10 +28,10 @@
         "d": "D/(1-D)"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3: Applying volt-sec balance to inductor gives the  (D(V<sub>in</sub>)+(1-D)(V<sub>in</sub>-V<sub>0</sub>)=0) gives voltage gain expression as: 1/(1-D)",
+        "d": "Explanation 4"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -46,10 +46,10 @@
         "d": "Diode"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4: Diode is an uncontrolled device which cannot be turned-OFF as per the control requirement."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -64,10 +64,10 @@
         "d": "I<sub>in</sub> = M I<sub>0</sub>  "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4: Using voltage gain and power balance the average source current can easily be obtained as: I<sub>in</sub>= M I<sub>0</sub>"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -82,10 +82,10 @@
         "d": "Converter will step up the input voltage"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation 1",
+        "b": "Explanation 2: Under switch-OFF condition the diode gets forward biased and conducts however if its direction is reversed it will remain reverse biased and not conduct.",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
