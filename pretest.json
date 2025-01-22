@@ -1,0 +1,94 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "<center>Answer the questions given below (refer Fig.1):<br> <img src='images/pre1.png' height='300px'><br><br>Fig. 1. Circuit configuration of boost converter.</center><br><br> 1. What is the use of Boost converter?",
+      "answers": {  
+        "a": "To convert the AC input voltage to DC output voltage.",
+        "b": "To convert the DC input voltage to AC output voltage.",
+        "c": "To step-down the DC input voltage.",
+        "d": "To step-up the DC input voltage."
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4: The boost converter is used to steps up the input voltage to higher output voltage"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+      
+    {
+      "question": "2. Voltage conversion ratio of boost converter is given by:",
+      "answers": {
+        "a": "D",
+        "b": "(1-D)",
+        "c": "1/(1-D)",
+        "d": "D/(1-D)"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3: Applying volt-sec balance to inductor gives the  (D(V<sub>in</sub>)+(1-D)(V<sub>in</sub>-V<sub>0</sub>)=0) gives voltage gain expression as: 1/(1-D)",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "3. Which of the following element cannot be used as switch (Sw) in boost converter?",
+      "answers": {
+        "a": "MOSFET",
+        "b": "IGBT",
+        "c": "BJT",
+        "d": "Diode"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4: Diode is an uncontrolled device which cannot be turned-OFF as per the control requirement."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+        
+    {
+      "question": "4. What is the relationship between load current (I<sub>0</sub>) and average source current (I<sub>in</sub>) of a boost converter if voltage gain is “M” ?",
+      "answers": {
+        "a": "I<sub>in</sub> = (M-1) I<sub>0</sub>",
+        "b": "I<sub>0</sub> = M I<sub>in</sub>",
+        "c": "I<sub>0</sub> = I<sub>in</sub>",
+        "d": "I<sub>in</sub> = M I<sub>0</sub>  "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4: Using voltage gain and power balance the average source current can easily be obtained as: I<sub>in</sub>= M I<sub>0</sub>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "5. What will be the effect of reversing the diode terminals in Boost converter?",
+      "answers": {
+        "a": "Converter will step down the input voltage",
+        "b": "Converter will not work at all",
+        "c": "It will work as a boost converter with inverted load voltage polarity.",
+        "d": "Converter will step up the input voltage"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2: Under switch-OFF condition the diode gets forward biased and conducts however if its direction is reversed it will remain reverse biased and not conduct.",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

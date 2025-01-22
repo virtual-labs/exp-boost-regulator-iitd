@@ -1,0 +1,184 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "<center>Answer the questions given below (refer Fig.2):<br> <img src='images/pos1.png' height='300px'><br><br>Fig. 2. Circuit configuration of boost converter.</center><br><br> 1. When switch (Sw) is in ON-state, the inductor current:",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains constant",
+        "d": "is zero"
+      },
+      "explanations": {
+        "a": "Explanation 1: In switch ON-state condition the inductor stores the energy hence the current through it increases.",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "2. What will be the voltage across diode (Di), when switch (Sw) is in OFF-state?",
+      "answers": {
+        "a": "Zero",
+        "b": "V<sub>0</sub>",
+        "c": "V<sub>in</sub>",
+        "d": "(V<sub>0</sub> - V<sub>in</sub>)"
+      },
+      "explanations": {
+        "a": "Explanation 1: When switch is in OFF-state the diode gets forward biased and starts conducting hence the voltage across it will be zero.",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. An ideal boost converter with 24 V source voltage was operating at a duty ratio of 0.6, after some time it increased to 0.75. What will be the change in the output voltage due to increase in the duty ratio?",
+      "answers": {
+        "a": "Increases by 12 V",
+        "b": "Increases by 24 V",
+        "c": "Increases by 36 V",
+        "d": "Increases by 48 V"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3: <img src='images/expl1.png' height='60px'> at D = 0.6 ;V<sub>0</sub> = 60 V and at D = 0.75; V<sub>0</sub> = 96 V",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "4. In a non-ideal boost converter, what is the relationship between the output power (P<sub>0</sub>) and input power (P<sub>in</sub>)?",
+      "answers": {
+        "a": "P<sub>0</sub> > P<sub>in</sub>",
+        "b": "P<sub>0</sub> < P<sub>in</sub>",
+        "c": "P<sub>0</sub> = P<sub>in</sub>",
+        "d": "P<sub>0</sub> = 2P<sub>in</sub>"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2: Due to non-idealities, power losses take place in various components hence the output power will be less than the input power.",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+            
+    {
+      "question": "5. The output voltage of ideal boost converter is 200 V and input voltage is 50 V. The duty ratio required for getting this voltage boosting is:",
+      "answers": {
+        "a": "0.5",
+        "b": "0.25",
+        "c": "0.75",
+        "d": "0.6"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3: <img src='images/expl2.png' height='60px'>",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "6. A boost converter has an input voltage of 12 V and an output voltage of 24 V. If the load current is 2A, calculate the average current drawn from the input source assuming ideal conditions (ignore losses).",
+      "answers": {
+        "a": "2 A",
+        "b": "1 A",
+        "c": "8 A",
+        "d": "4 A"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4: <img src='images/expl3.png' height='60px'>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "7. In a boost converter, the switching frequency is 100 kHz, and the duty cycle of the switch is 0.6. Calculate the switch ON (t<sub>on</sub>) time period.",
+      "answers": {
+        "a": "6 μs",
+        "b": "4 μs",
+        "c": "10 μs",
+        "d": "1 μs"
+      },
+      "explanations": {
+        "a": "Explanation 1:  <img src='images/expl4.png' height='60px'>",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "8. A boost converter operates with an input voltage of 24 V and an output voltage of 48 V. The switching frequency is 50 kHz. Calculate the peak-to-peak current ripple in the inductor if the inductance is 1 mH.",
+      "answers": {
+        "a": "1.2 A",
+        "b": "0.24 A",
+        "c": "0.12 A",
+        "d": "0.48 A"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2: <img src='images/expl5.png' height='60px'>",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "9. In a boost converter circuit, the output voltage is 36 V, and the input voltage is 12 V. The efficiency of the converter is 85%. Calculate the output power if the input current is 5 A.",
+      "answers": {
+        "a": "80 W",
+        "b": "60 W",
+        "c": "51 W",
+        "d": "54 W"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3: Pin = 12 * 5 = 60 W ;  P0 = eff*Pin = 0.85*60 = 51 W ",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "10. A boost converter has an input voltage of 12 V and an output voltage of 48 V. The converter operates with a switching frequency of 100 kHz. Calculate the duty cycle required for this operation.",
+      "answers": {
+        "a": "0.6",
+        "b": "0.75",
+        "c": "0.7",
+        "d": "0.65"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2:  <img src='images/expl6.png' height='60px'>",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

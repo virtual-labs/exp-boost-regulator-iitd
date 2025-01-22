@@ -1,0 +1,280 @@
+
+/home/runner/work/exp-boost-regulator-iitd/exp-boost-regulator-iitd/experiment/simulation/js/formulas.js
+   41:50  warning  'rc' is assigned a value but never used      no-unused-vars
+   56:50  warning  'rc' is assigned a value but never used      no-unused-vars
+  118:5   warning  'values' is assigned a value but never used  no-unused-vars
+  124:10  warning  'updateValues' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-boost-regulator-iitd/exp-boost-regulator-iitd/experiment/simulation/js/layout.js
+   9:10  warning  'nextDrawerItem' is defined but never used  no-unused-vars
+  20:10  warning  'backDrawerItem' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-boost-regulator-iitd/exp-boost-regulator-iitd/experiment/simulation/js/main.js
+   182:7   warning  'ChartGraph' is assigned a value but never used     no-unused-vars
+   186:6   warning  'Graph1' is not defined                             no-undef
+   190:6   warning  'Graph2' is not defined                             no-undef
+   194:6   warning  'Graph3' is not defined                             no-undef
+   198:6   warning  'Graph4' is not defined                             no-undef
+   214:23  warning  'Chart' is not defined                              no-undef
+   248:5   warning  'isPerformNext' is assigned a value but never used  no-unused-vars
+   289:7   warning  'opacity' is assigned a value but never used        no-unused-vars
+   295:7   warning  'hideAll' is assigned a value but never used        no-unused-vars
+   295:28  warning  'disp' is assigned a value but never used           no-unused-vars
+   301:7   warning  'showAll' is assigned a value but never used        no-unused-vars
+   301:28  warning  'disp' is assigned a value but never used           no-unused-vars
+   308:7   warning  'set' is assigned a value but never used            no-unused-vars
+   348:15  warning  'Typed' is not defined                              no-undef
+   370:19  warning  'src' is not defined                                no-undef
+   500:17  warning  'anime' is not defined                              no-undef
+   539:17  warning  'anime' is not defined                              no-undef
+   561:10  warning  'cursorPointer' is defined but never used           no-unused-vars
+   829:10  warning  'i' is not defined                                  no-undef
+   830:18  warning  'i' is not defined                                  no-undef
+   832:10  warning  'i' is not defined                                  no-undef
+   833:11  warning  'i' is not defined                                  no-undef
+   833:28  warning  'i' is not defined                                  no-undef
+   833:48  warning  'i' is not defined                                  no-undef
+   836:25  warning  'i' is not defined                                  no-undef
+   880:6   warning  'intro' is not defined                              no-undef
+   907:18  warning  'anime' is not defined                              no-undef
+   929:15  warning  'intru' is not defined                              no-undef
+   929:27  warning  'Typed' is not defined                              no-undef
+   947:15  warning  'intru' is not defined                              no-undef
+   963:6   warning  'conceptDevelopment' is not defined                 no-undef
+   970:11  warning  'imgs' is assigned a value but never used           no-unused-vars
+   979:11  warning  'currSlideIdx' is assigned a value but never used   no-unused-vars
+  1027:9   warning  'anime' is not defined                              no-undef
+  1047:9   warning  'anime' is not defined                              no-undef
+  1058:9   warning  'anime' is not defined                              no-undef
+  1067:16  warning  'anime' is not defined                              no-undef
+  1086:10  warning  'slide2' is not defined                             no-undef
+  1089:10  warning  'slide3' is not defined                             no-undef
+  1095:15  warning  'anime' is not defined                              no-undef
+  1112:15  warning  'anime' is not defined                              no-undef
+  1129:15  warning  'anime' is not defined                              no-undef
+  1151:10  warning  'slide4' is not defined                             no-undef
+  1162:11  warning  'anime' is not defined                              no-undef
+  1185:15  warning  'topIdx' is not defined                             no-undef
+  1186:15  warning  'leftIdx' is not defined                            no-undef
+  1187:15  warning  'anime' is not defined                              no-undef
+  1194:25  warning  'leftIdx' is not defined                            no-undef
+  1195:24  warning  'topIdx' is not defined                             no-undef
+  1202:25  warning  'leftIdx' is not defined                            no-undef
+  1203:24  warning  'topIdx' is not defined                             no-undef
+  1207:25  warning  'leftIdx' is not defined                            no-undef
+  1208:24  warning  'topIdx' is not defined                             no-undef
+  1221:15  warning  'anime' is not defined                              no-undef
+  1230:33  warning  'anime' is not defined                              no-undef
+  1263:10  warning  'slide5' is not defined                             no-undef
+  1282:11  warning  'anime' is not defined                              no-undef
+  1301:15  warning  'topIdx' is not defined                             no-undef
+  1302:15  warning  'leftIdx' is not defined                            no-undef
+  1303:15  warning  'anime' is not defined                              no-undef
+  1310:25  warning  'leftIdx' is not defined                            no-undef
+  1311:24  warning  'topIdx' is not defined                             no-undef
+  1318:25  warning  'leftIdx' is not defined                            no-undef
+  1319:24  warning  'topIdx' is not defined                             no-undef
+  1332:15  warning  'anime' is not defined                              no-undef
+  1398:10  warning  'slide6' is not defined                             no-undef
+  1403:15  warning  'anime' is not defined                              no-undef
+  1426:15  warning  'anime' is not defined                              no-undef
+  1455:10  warning  'slide7' is not defined                             no-undef
+  1476:10  warning  'slide8' is not defined                             no-undef
+  1484:15  warning  'anime' is not defined                              no-undef
+  1506:15  warning  'anime' is not defined                              no-undef
+  1549:10  warning  'slide9' is not defined                             no-undef
+  1555:10  warning  'slide10' is not defined                            no-undef
+  1565:15  warning  'anime' is not defined                              no-undef
+  1581:15  warning  'anime' is not defined                              no-undef
+  1597:15  warning  'anime' is not defined                              no-undef
+  1622:21  warning  'anime' is not defined                              no-undef
+  1632:21  warning  'anime' is not defined                              no-undef
+  1670:10  warning  'slide11' is not defined                            no-undef
+  1679:15  warning  'anime' is not defined                              no-undef
+  1701:15  warning  'anime' is not defined                              no-undef
+  1728:25  warning  'anime' is not defined                              no-undef
+  1760:10  warning  'slide12' is not defined                            no-undef
+  1768:15  warning  'anime' is not defined                              no-undef
+  1795:15  warning  'anime' is not defined                              no-undef
+  1833:10  warning  'slide13' is not defined                            no-undef
+  1843:15  warning  'anime' is not defined                              no-undef
+  1859:15  warning  'anime' is not defined                              no-undef
+  1873:21  warning  'anime' is not defined                              no-undef
+  1883:21  warning  'anime' is not defined                              no-undef
+  1918:10  warning  'slide14' is not defined                            no-undef
+  1929:15  warning  'anime' is not defined                              no-undef
+  1951:15  warning  'anime' is not defined                              no-undef
+  1982:21  warning  'anime' is not defined                              no-undef
+  1995:21  warning  'anime' is not defined                              no-undef
+  2006:21  warning  'anime' is not defined                              no-undef
+  2024:21  warning  'anime' is not defined                              no-undef
+  2034:21  warning  'anime' is not defined                              no-undef
+  2066:10  warning  'slide15' is not defined                            no-undef
+  2080:15  warning  'anime' is not defined                              no-undef
+  2106:15  warning  'anime' is not defined                              no-undef
+  2120:21  warning  'anime' is not defined                              no-undef
+  2130:21  warning  'anime' is not defined                              no-undef
+  2160:21  warning  'anime' is not defined                              no-undef
+  2173:21  warning  'anime' is not defined                              no-undef
+  2182:21  warning  'anime' is not defined                              no-undef
+  2191:21  warning  'anime' is not defined                              no-undef
+  2208:29  warning  'anime' is not defined                              no-undef
+  2234:6   warning  'step1' is not defined                              no-undef
+  2322:11  warning  'anime' is not defined                              no-undef
+  2331:11  warning  'anime' is not defined                              no-undef
+  2370:9   warning  'anime' is not defined                              no-undef
+  2380:15  warning  'anime' is not defined                              no-undef
+  2419:6   warning  'step2' is not defined                              no-undef
+  2439:11  warning  'graphLeft' is assigned a value but never used      no-unused-vars
+  2440:9   warning  'graphTop' is assigned a value but never used       no-unused-vars
+  2441:9   warning  'graphHeight' is assigned a value but never used    no-unused-vars
+  2444:11  warning  'allTempTitles' is assigned a value but never used  no-unused-vars
+  2489:30  warning  '$' is not defined                                  no-undef
+  2495:9   warning  'updateValues' is not defined                       no-undef
+  2497:25  warning  'Formulas' is not defined                           no-undef
+  2497:43  warning  'values' is not defined                             no-undef
+  2498:26  warning  'Formulas' is not defined                           no-undef
+  2498:45  warning  'values' is not defined                             no-undef
+  2499:25  warning  'Formulas' is not defined                           no-undef
+  2499:43  warning  'values' is not defined                             no-undef
+  2504:11  warning  'updateValues' is not defined                       no-undef
+  2538:11  warning  'updateValues' is not defined                       no-undef
+  2571:11  warning  'updateValues' is not defined                       no-undef
+  2608:6   warning  'step3' is not defined                              no-undef
+  2732:6   warning  'step4' is not defined                              no-undef
+  2753:11  warning  'sliders' is assigned a value but never used        no-unused-vars
+  2754:11  warning  'slidersValue' is assigned a value but never used   no-unused-vars
+  2803:13  warning  'x' is assigned a value but never used              no-unused-vars
+  2803:21  warning  'Chart' is not defined                              no-undef
+  2979:30  warning  '$' is not defined                                  no-undef
+  2984:9   warning  'updateValues' is not defined                       no-undef
+  2999:11  warning  Move function declaration to function body root     no-inner-declarations
+  3050:13  warning  'Formulas' is not defined                           no-undef
+  3050:31  warning  'values' is not defined                             no-undef
+  3053:13  warning  'Formulas' is not defined                           no-undef
+  3053:30  warning  'values' is not defined                             no-undef
+  3056:13  warning  'Formulas' is not defined                           no-undef
+  3056:32  warning  'values' is not defined                             no-undef
+  3059:13  warning  'Formulas' is not defined                           no-undef
+  3059:31  warning  'values' is not defined                             no-undef
+  3071:6   warning  'step5' is not defined                              no-undef
+  3125:21  warning  'Chart' is not defined                              no-undef
+  3251:13  warning  'resetAll' is assigned a value but never used       no-unused-vars
+  3333:30  warning  '$' is not defined                                  no-undef
+  3355:11  warning  'updateValues' is not defined                       no-undef
+  3363:13  warning  'Formulas' is not defined                           no-undef
+  3363:33  warning  'values' is not defined                             no-undef
+  3367:26  warning  'Formulas' is not defined                           no-undef
+  3367:46  warning  'values' is not defined                             no-undef
+  3416:11  warning  'updateValues' is not defined                       no-undef
+  3424:13  warning  'Formulas' is not defined                           no-undef
+  3424:33  warning  'values' is not defined                             no-undef
+  3428:26  warning  'Formulas' is not defined                           no-undef
+  3428:46  warning  'values' is not defined                             no-undef
+  3475:11  warning  'updateValues' is not defined                       no-undef
+  3483:13  warning  'Formulas' is not defined                           no-undef
+  3483:33  warning  'values' is not defined                             no-undef
+  3487:26  warning  'Formulas' is not defined                           no-undef
+  3487:46  warning  'values' is not defined                             no-undef
+  3505:6   warning  'step6' is not defined                              no-undef
+  3541:11  warning  'xLabel' is assigned a value but never used         no-unused-vars
+  3544:13  warning  'x' is assigned a value but never used              no-unused-vars
+  3544:21  warning  'Chart' is not defined                              no-undef
+  3822:30  warning  '$' is not defined                                  no-undef
+  3827:9   warning  'updateValues' is not defined                       no-undef
+  3842:11  warning  Move function declaration to function body root     no-inner-declarations
+  3897:11  warning  'Formulas' is not defined                           no-undef
+  3897:38  warning  'values' is not defined                             no-undef
+  3900:11  warning  'Formulas' is not defined                           no-undef
+  3900:37  warning  'values' is not defined                             no-undef
+  3903:11  warning  'Formulas' is not defined                           no-undef
+  3903:39  warning  'values' is not defined                             no-undef
+  3906:11  warning  'Formulas' is not defined                           no-undef
+  3906:38  warning  'values' is not defined                             no-undef
+  3909:11  warning  'Formulas' is not defined                           no-undef
+  3909:39  warning  'values' is not defined                             no-undef
+  3912:11  warning  'Formulas' is not defined                           no-undef
+  3912:38  warning  'values' is not defined                             no-undef
+  3915:11  warning  'Formulas' is not defined                           no-undef
+  3915:39  warning  'values' is not defined                             no-undef
+  3938:6   warning  'step7' is not defined                              no-undef
+  3969:11  warning  'config' is assigned a value but never used         no-unused-vars
+  4036:22  warning  'Chart' is not defined                              no-undef
+  4106:22  warning  'Chart' is not defined                              no-undef
+  4270:30  warning  '$' is not defined                                  no-undef
+  4276:9   warning  'updateValues' is not defined                       no-undef
+  4283:11  warning  'Formulas' is not defined                           no-undef
+  4283:30  warning  'values' is not defined                             no-undef
+  4286:11  warning  'Formulas' is not defined                           no-undef
+  4286:29  warning  'values' is not defined                             no-undef
+  4289:11  warning  'Formulas' is not defined                           no-undef
+  4289:32  warning  'values' is not defined                             no-undef
+  4292:11  warning  'Formulas' is not defined                           no-undef
+  4292:30  warning  'values' is not defined                             no-undef
+  4295:26  warning  'Formulas' is not defined                           no-undef
+  4295:47  warning  'values' is not defined                             no-undef
+  4296:25  warning  'Formulas' is not defined                           no-undef
+  4296:44  warning  'values' is not defined                             no-undef
+  4297:26  warning  'Formulas' is not defined                           no-undef
+  4297:47  warning  'values' is not defined                             no-undef
+  4299:11  warning  'Formulas' is not defined                           no-undef
+  4299:32  warning  'values' is not defined                             no-undef
+  4299:42  warning  'Formulas' is not defined                           no-undef
+  4299:61  warning  'values' is not defined                             no-undef
+  4338:6   warning  'step8' is not defined                              no-undef
+  4406:28  warning  'anime' is not defined                              no-undef
+  4454:6   warning  'step9' is not defined                              no-undef
+  4479:6   warning  'step10' is not defined                             no-undef
+  4504:6   warning  'step11' is not defined                             no-undef
+  4529:6   warning  'step12' is not defined                             no-undef
+  4582:7   warning  'backDrawerItem' is not defined                     no-undef
+  4583:7   warning  'backProgressBar' is not defined                    no-undef
+  4606:11  warning  'nextDrawerItem' is not defined                     no-undef
+  4607:11  warning  'nextProgressBar' is not defined                    no-undef
+  4611:12  warning  Empty block statement                               no-empty
+  4619:16  warning  '$' is not defined                                  no-undef
+  4620:13  warning  '$' is not defined                                  no-undef
+  4621:13  warning  '$' is not defined                                  no-undef
+  4625:19  warning  '$' is not defined                                  no-undef
+  4626:7   warning  '$' is not defined                                  no-undef
+  4630:7   warning  '$' is not defined                                  no-undef
+  4631:7   warning  '$' is not defined                                  no-undef
+  4635:1   warning  '$' is not defined                                  no-undef
+  4636:16  warning  '$' is not defined                                  no-undef
+  4639:7   warning  'min' is assigned a value but never used            no-unused-vars
+
+/home/runner/work/exp-boost-regulator-iitd/exp-boost-regulator-iitd/experiment/simulation/js/progressBar.js
+   2:7  warning  'prevBtns' is assigned a value but never used         no-unused-vars
+   3:7  warning  'nextBtns' is assigned a value but never used         no-unused-vars
+  12:7  warning  'nextProgressBar' is assigned a value but never used  no-unused-vars
+  19:7  warning  'backProgressBar' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-boost-regulator-iitd/exp-boost-regulator-iitd/experiment/simulation/toolkit/toolkit.js
+   42:5   warning  '$' is not defined                                     no-undef
+   48:48  warning  'Scenes' is not defined                                no-undef
+   50:9   warning  '$' is not defined                                     no-undef
+   51:9   warning  '$' is not defined                                     no-undef
+   53:9   warning  '$' is not defined                                     no-undef
+   54:9   warning  '$' is not defined                                     no-undef
+   58:5   warning  'intervalForCheck' is assigned a value but never used  no-unused-vars
+   68:42  warning  'Scenes' is not defined                                no-undef
+   72:46  warning  'Scenes' is not defined                                no-undef
+   73:10  warning  'isRunning' is not defined                             no-undef
+   78:40  warning  'Scenes' is not defined                                no-undef
+  104:26  warning  'Dom' is not defined                                   no-undef
+  119:17  warning  'anime' is not defined                                 no-undef
+  134:34  warning  'anime' is not defined                                 no-undef
+  148:5   warning  '$' is not defined                                     no-undef
+  195:5   warning  '$' is not defined                                     no-undef
+  196:5   warning  '$' is not defined                                     no-undef
+  199:7   warning  '$' is not defined                                     no-undef
+  200:7   warning  '$' is not defined                                     no-undef
+  231:7   warning  '$' is not defined                                     no-undef
+  235:7   warning  '$' is not defined                                     no-undef
+  236:7   warning  '$' is not defined                                     no-undef
+  247:1   warning  '$' is not defined                                     no-undef
+  253:5   warning  'Dom' is not defined                                   no-undef
+  254:5   warning  'Dom' is not defined                                   no-undef
+
+✖ 267 problems (0 errors, 267 warnings)
+
